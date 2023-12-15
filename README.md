@@ -5,6 +5,12 @@ This application creates a 3D rotating mesh funnel using Three.js in a web brows
 
 It was created using GPT4 with a number of iterations to get the results you see here.
 
+## code
+https://github.com/pleabargain/mesh_funnel
+
+## live
+https://pleabargain.github.io/mesh_funnel/
+
 ## Features
 
 - 3D rotating mesh funnel.
